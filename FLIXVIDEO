@@ -1,6 +1,27 @@
-<body></body>
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device=width, initial-scale=1.0">
+        <title> FlixVídeo</title>
+    </head>
+<body style="background-color: blueviolet;"> <!--Cor de fundo básica-->
+    <!--Texto de apresentação-->
+    <h1>Bem vindo ao FlixVídeo</h1>
+    <p> Resumos de animes, mangás e manhwas!</p>
+    <!--Tabela de Vídeos-->
+    <table border="1" cellspacing="0" cellspading="10">
+        <tr>
+            <th>Vídeo</th>
+            <th>Imagem</th>
+        </tr>
+        <tr>
+            <td> Resumo de Animes</td>
+            <td><iframe width="560" height="315" src="https://www.youtube.com/embed/-krR4lgge84?si=QkCO5YKrRTQnTjgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+       
+        </tr>
 
-<header>FLIXVIDEO</header>
-<h1>CLIQUE EM UM VÍDEO PARA COMEÇAR</h1>
-<p>Resumindo animes</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U85sRzI3Tvo?si=ml9OSIhQrkJFYgJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </table>
+
+</body>
+
