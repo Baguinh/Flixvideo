@@ -18,8 +18,10 @@
         <tr>
             <td> Resumo de Animes</td>
             <td><iframe width="560" height="315" src="https://www.youtube.com/embed/-krR4lgge84?si=QkCO5YKrRTQnTjgK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
-       
-        </tr>
+       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/etBj_9KgFsw?si=lxFZ-T6xjMADGJEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>/td>
+       <td><iframe width="560" height="315" src="https://www.youtube.com/embed/2_PPYkUQnug?si=A_rCnqHaOFmXS6pM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+    
+    </tr>
 
     </table>
 
